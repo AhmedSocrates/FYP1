@@ -2,7 +2,7 @@
 > **Procedural World Generation via Fine-Tuned Embedded Scripting**
 
 [![Research Phase](https://img.shields.io/badge/Status-Research%20%26%20Development-blue)](#)
-[![Architecture](https://img.shields.io/badge/Architecture-C%2B%2B%20%7C%20OpenGL%20%7C%20Python)](#)
+[![Architecture](https://img.shields.io/badge/Architecture-C%2B%2B%20%7C%20OpenGL%20%7C%20Python-orange)](#)
 [![AI Integration](https://img.shields.io/badge/AI-Local%20LLM%20Agent-purple)](#)
 
 Welcome to the **Agentic 3D Engine**. This project is a minimal, research-driven 3D game engine designed from the ground up to be coded, controlled, and populated entirely by an autonomous Artificial Intelligence agent at runtime. 
