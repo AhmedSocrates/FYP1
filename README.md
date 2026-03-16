@@ -2,7 +2,7 @@
 > **Procedural World Generation via Fine-Tuned Embedded Scripting**
 
 [![Research Phase](https://img.shields.io/badge/Status-Research%20%26%20Development-blue)](#)
-[![Architecture](https://img.shields.io/badge/Architecture-C%2B%2B%20%7C%20OpenGL%20%7C%20Lua-orange)](#)
+[![Architecture](https://img.shields.io/badge/Architecture-C%2B%2B%20%7C%20OpenGL%20%7C%20Python)](#)
 [![AI Integration](https://img.shields.io/badge/AI-Local%20LLM%20Agent-purple)](#)
 
 Welcome to the **Agentic 3D Engine**. This project is a minimal, research-driven 3D game engine designed from the ground up to be coded, controlled, and populated entirely by an autonomous Artificial Intelligence agent at runtime. 
@@ -39,7 +39,7 @@ Built in **C++ and OpenGL**, this is the foundation of the system. It handles th
 * Axis-Aligned Bounding Box (AABB) collision detection.
 
 ### 2. The Scripting Bridge (The API)
-A deterministic embedded API (using **Lua** or **Python**) that allows external scripts to manipulate the engine state at runtime without requiring a C++ recompilation. It exposes a strict vocabulary of commands to the AI, such as:
+A deterministic embedded API (using **Python**) that allows external scripts to manipulate the engine state at runtime without requiring a C++ recompilation. It exposes a strict vocabulary of commands to the AI, such as:
 * `world.set_time(time_of_day)`
 * `world.spawn_entity(asset_id, x, y, z)`
 * `physics.check_overlap(entity_a, entity_b)`
