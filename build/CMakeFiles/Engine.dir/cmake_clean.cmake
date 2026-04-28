@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Engine.dir/src/Engine.cpp.obj"
+  "CMakeFiles/Engine.dir/src/Engine.cpp.obj.d"
   "CMakeFiles/Engine.dir/src/main.cpp.obj"
   "CMakeFiles/Engine.dir/src/main.cpp.obj.d"
   "Engine.exe"

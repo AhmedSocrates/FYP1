@@ -1,4 +1,5 @@
-CMakeFiles/Engine.dir/src/main.cpp.obj: E:\FYP\AgenticEngine\src\main.cpp \
+CMakeFiles/Engine.dir/src/Engine.cpp.obj: \
+ E:\FYP\AgenticEngine\src\Engine.cpp \
  E:/FYP/AgenticEngine/include/Engine.h \
  C:/msys64/ucrt64/include/GLFW/glfw3.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \

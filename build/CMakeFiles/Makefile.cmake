@@ -7,6 +7,10 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3Config.cmake"
+  "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3ConfigVersion.cmake"
+  "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3Targets-release.cmake"
+  "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3Targets.cmake"
   "C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompiler.cmake.in"
   "C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c"
   "C:/msys64/ucrt64/share/cmake/Modules/CMakeCInformation.cmake"
