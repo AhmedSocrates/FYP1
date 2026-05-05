@@ -40,7 +40,7 @@ Built in **C++ and OpenGL**, this is the foundation of the system. It handles th
 
 ### 2. The Scripting Bridge (The API)
 A deterministic embedded API (using **Python**) that allows external scripts to manipulate the engine state at runtime without requiring a C++ recompilation. It exposes a strict vocabulary of commands to the AI, such as:
-* `world.set_time(time_of_day)`
+* `world.set_time(time_of_day) and world.set_time(time_of_month)`
 * `world.spawn_entity(asset_id, x, y, z)`
 * `physics.check_overlap(entity_a, entity_b)`
 
